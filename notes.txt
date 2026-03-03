@@ -1,0 +1,22 @@
+Based on the follow-up meeting with Talent Acquisition, here are the enhancements to be made to the OTC TA Manatal Enhancements Phase 2 based on priority:
+
+1. Simplify UI, removed unused fields in Manatal. see Sprout Creation.xlsx file, Manatal tab
+1.1 Add hire name section in the Job Offer section
+
+2. Improve Job Description section - create separate fields for introduction, Job Description, Job Requirements, and benefits to improve readability and ease of use
+
+
+3. Breakdown Job Offer in the the following:
+    Base Pay
+    Rice Allowance - 2000
+    Clothing Allowance - 550
+    Laundy Allowance - 300
+    Wellbeing [Managers only]
+    Transportation [Managers only]
+    Exception: Contactor
+
+4. Automate generation of Job Offer documents and contracts using the available information in Manatal
+
+5. Improve existing automation to avoid creation of duplicate records
+
+6. Add automation to auto-send emails to candidates based on templates based on certain stage/status triggers
